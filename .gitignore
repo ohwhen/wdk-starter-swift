@@ -43,6 +43,17 @@ fastlane/test_output
 # macOS
 .DS_Store
 
+# Node
+node_modules/
+package-lock.json
+
+# Downloads and temp prebuilds
+downloads/
+prebuilds-tmp/
+
+# Flowdeck
+.flowdeck/
+
 # Prebuilt artifacts (from prebuilds.zip + addons.zip, not committed)
 frameworks/*.xcframework
 addons/*.xcframework

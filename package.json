@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "bare-bundle": "^1.10.0",
+    "esbuild": "^0.27.3"
+  }
+}
